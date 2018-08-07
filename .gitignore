@@ -1,3 +1,11 @@
 build
 introduction_to_algorithms/.idea
 introduction_to_algorithms/out
+flutter_hello_world/.packages
+flutter_hello_world/.idea
+flutter_hello_world/build
+flutter_hello_world/android/.gradle
+flutter_hello_world/android/gradle
+flutter_hello_world/android/gradlew
+flutter_hello_world/android/gradlew.bat
+flutter_hello_world/android/local.properties
